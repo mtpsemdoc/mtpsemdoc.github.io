@@ -1,4 +1,4 @@
-theme: remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 markdown: kramdown
 usemathjax: true
 include: ["_include", "_layouts"]
