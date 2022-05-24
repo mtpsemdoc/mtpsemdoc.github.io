@@ -1,3 +1,7 @@
+----------------
+author_profile: true
+----------------
+
 ## Welcome to the semdoc
 
 We are a phd students from [IMAG](https://imag.umontpellier.fr/) Montpellier, France.
