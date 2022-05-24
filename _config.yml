@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 usemathjax: true
 include: ["_include", "_layouts"]
+plugins:
+  - jekyll-include-cache
