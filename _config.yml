@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
 usemathjax: true
-include: ["_include"]
+include: ["_include", "_layouts"]
