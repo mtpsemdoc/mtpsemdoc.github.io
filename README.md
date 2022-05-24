@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to the semdoc
 
-You can use the [editor on GitHub](https://github.com/mtpsemdoc/mtpsemdoc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are a phd students from [IMAG](https://imag.umontpellier.fr/) Montpellier, France.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This is a subtitle!
 
-### Markdown
+We do maths in all its states! And we know $\LaTeX$: $$\mathit{AUM}(x, y^{(j)})= z_{y^{(j)}}^{(t)} - \max_{i\neq y^{(j)}}\ z_i^{(t)}$$
+And some of us like to play around with visualizations.
+Try this:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+from turtle import *
+color('green')
+bgcolor('black')
+speed(10)
+hideturtle()
+b = 0
+while b < 200:
+	right( b)
+	forward(b * 3)
+	b = b + 1
 ```
+## A few things
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- One thing
+- Another **but important** (*is it really?*)
 
-### Jekyll Themes
+| years | who? |
+| ---- | ---- |
+| 50 AD | Julius Caesar |
+| .... | .... |
+| now | some people |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtpsemdoc/mtpsemdoc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### My great talks:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Somewhere
+1. Somewhere else
