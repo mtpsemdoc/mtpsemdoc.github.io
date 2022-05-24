@@ -6,11 +6,13 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
+  
+url: "https://mtpsemdoc.github.io/" 
 
 author:
   name: "Your name"
   avatar: "my_avatar.png"
-  bio: "PhD Student in statistics" # Note: Markdown is allowed
+  bio: "PhD Student in ???" # Note: Markdown is allowed
   location: "Montpellier, France"
   email            : "myemal@domain.fr"
   uri              :
@@ -25,7 +27,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : #"tanguy_lef"
+  instagram        : #"???"
   lastfm           :
   pinterest        :
   soundcloud       :
