@@ -4,8 +4,9 @@ usemathjax: true
 include: ["_include", "_layouts"]
 plugins:
   - jekyll-include-cache
-  - jekull-feed
-  
+  - jekyll-feed
+  - jekyll-sitemap
+
 author:
   name: "Your name"
   avatar: "my_avatar.png"
