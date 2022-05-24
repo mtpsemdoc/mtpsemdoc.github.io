@@ -1,6 +1,6 @@
-----------------
+---
 author_profile: true
-----------------
+---
 
 ## Welcome to the semdoc
 
