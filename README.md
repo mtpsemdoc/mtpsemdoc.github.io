@@ -4,7 +4,9 @@ We are a phd students from [IMAG](https://imag.umontpellier.fr/) Montpellier, Fr
 
 ### This is a subtitle!
 
-We do maths in all its states! And we know $\LaTeX$: $$\mathit{AUM}(x, y^{(j)})= z_{y^{(j)}}^{(t)} - \max_{i\neq y^{(j)}}\ z_i^{(t)}$$
+We do maths in all its states! And we know LaTeX
+
+$$\mathit{AUM}(x, y^{(j)})= z_{y^{(j)}}^{(t)} - \max_{i\neq y^{(j)}}\ z_i^{(t)}$$
 And some of us like to play around with visualizations.
 Try this:
 
