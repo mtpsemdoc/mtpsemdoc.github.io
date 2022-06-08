@@ -11,6 +11,8 @@ We are a phd students from [IMAG](https://imag.umontpellier.fr/) Montpellier, Fr
 We do maths in all its states! And we know LaTeX
 
 $$\mathit{AUM}(x, y^{(j)})= z_{y^{(j)}}^{(t)} - \max_{i\neq y^{(j)}}\ z_i^{(t)}$$
+
+This is a link to a pdf in the `data_`folder: [the pdf]({{site.url}}/data_/1306.0239.pdf)
 And some of us like to play around with visualizations.
 Try this:
 
